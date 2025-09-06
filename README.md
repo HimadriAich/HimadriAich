@@ -16,8 +16,8 @@ Other: Git | GitHub | REST APIs | DSA
 (Many More To Come......)
 
 🚀 Featured Projects
-
-
+1)🌐 Peer-Mentor Learning Platform | Built for Hackazards 2k25 by Namespace Community
+https://github.com/HimadriAich/peer-learning-project.git
 
 (more projects coming soon…)
 
