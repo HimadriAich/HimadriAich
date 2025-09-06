@@ -40,7 +40,7 @@ Other: Git | GitHub | REST APIs | DSA
 
 📫 Connect With Me
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/himadri-aich-5794932a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 📧 Email: ajantaaich123@gmail.com
 
