@@ -1,16 +1,51 @@
-## Hi there 👋
+🌟 Hi, I’m Himadri Aich!
 
-<!--
-**HimadriAich/HimadriAich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Aspiring Full-Stack Developer | 📚 Practicing DSA | 🚀 Exploring AI/ML & Data Science
+💡 Passionate about building impactful projects, solving problems, and learning from global developers.
+🤝 Always open to hackathons, open source, and collaborations.
 
-Here are some ideas to get you started:
+⚡ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: JavaScript | Python | C++ | C | Java 
+
+Frontend: HTML | CSS | React | Tailwind | Bootstrap | For Future: Angular and Next
+
+Backend: Node.js | Express | Supabase | MongoDB | MySQL | PostgreSQL
+
+Other: Git | GitHub | REST APIs | DSA
+(Many More To Come......)
+
+🚀 Featured Projects
+
+
+
+(more projects coming soon…)
+
+📊 GitHub Stats
+
+
+
+
+🌱 Current Status
+
+🌐 Learning Full Stack Web Development
+
+🧑‍💻 Practicing DSA daily
+
+🔭 Preparing to explore AI/ML & Data Science
+
+👯 I’m looking to collaborate on hackathons, open-source projects, and innovative web apps
+
+🤔 I’m looking for help with best practices in system design & AI/ML model building
+
+📫 Connect With Me
+
+💼 LinkedIn: 
+
+📧 Email: ajantaaich123@gmail.com
+
+🌍 Portfolio Website
+ (coming soon!)
+
+✨ “Learning | Building | Growing every day” ✨
+⚡ Fun fact: I love turning complex problems into simple, working solutions!
