@@ -19,7 +19,8 @@ Other: Git | GitHub | REST APIs | DSA
 1)🌐 Peer-Mentor Learning Platform | Built for Hackazards 2k25 by Namespace Community
 https://github.com/HimadriAich/peer-learning-project.git
 
-(more projects coming soon…)
+2) Zomato Landing Page | Frontend Clone using HTML AND CSS
+https://github.com/HimadriAich/Zomato-Landing-Page.git
 
 📊 GitHub Stats
 
